@@ -1,0 +1,15 @@
+{
+  "name": "bombom-count",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "dateformat": "^1.0.12",
+    "express": "~4.13.4",
+    "fast-csv": "^2.3.0",
+    "firebase": "^3.5.1"
+  }
+}
